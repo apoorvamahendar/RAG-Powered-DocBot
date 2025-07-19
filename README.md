@@ -1,6 +1,6 @@
 # RAG-Powered-DocBot
 
-# 🧠 RAG AI Assistant (Groq + All-in-One Script)
+# 🧠 RAG AI Assistant 
 
 A Retrieval-Augmented Generation (RAG) AI Assistant that allows you to upload documents (PDF, DOCX) and ask natural language questions about their contents — powered by **Groq API**, **LangChain**, and **ChromaDB**.  
 Everything runs from a **single script: `main.py`**.
